@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shick-shak-shok/static/css/main.9c5c5444.css",
+    "main.js": "/shick-shak-shok/static/js/main.3eb8a51c.js",
+    "index.html": "/shick-shak-shok/index.html",
+    "main.9c5c5444.css.map": "/shick-shak-shok/static/css/main.9c5c5444.css.map",
+    "main.3eb8a51c.js.map": "/shick-shak-shok/static/js/main.3eb8a51c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c5c5444.css",
+    "static/js/main.3eb8a51c.js"
+  ]
+}
